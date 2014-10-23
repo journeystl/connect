@@ -717,7 +717,7 @@ span.direct-chat a {
 	}
 /* Footer */
 .footer {
-	background: url(../img/footer.jpg) no-repeat top center;
+	background: url(../img/footer.jpg) no-repeat center -6px;
 	font-size:1.3em;
 	padding:40px 20px;
 	height:340px;
